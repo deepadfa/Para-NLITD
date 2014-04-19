@@ -1,7 +1,7 @@
 
-								Para-NLITD : Parapharasing Natural Language
-						     		     Interface to Transportation Domain
-							                        =============
+						Para-NLITD : Parapharasing Natural Language
+						     Interface to Transportation Domain
+							       =============
 
 
 Para-NLITD is a system that uses natural language questions related to transportation domain in English (instead of SQL queries) and the system will give answers in the same language. In paraphrasing ,the system asks supportive questions to reformulate the query asked by the user for better retrieval of data.
