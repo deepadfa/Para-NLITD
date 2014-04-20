@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------------------------------------------------
+                                 Table route                                                         
+--------------------------------------------------------------------------------------------------------------------------
+rid 		 source 		 destination 		 route
+--------------------------------------------------------------------------------------------------------------------------
+1		Shoranur		Thrissur		Shoranur-->Vadakkanchery-->Ottupara-->Athani-->Thrissur		
+2		Shoranur		Palakkad		Shoranur-->Koonathara-->Ottapalam-->Mundur-->Palakkad		
+3		Shoranur		Cherpulassery		Shoranur-->Koonathara-->Vaniyamkulam-->Ananganadi-->Cherpulassery		
+4		Shoranur		Ottapalam		Shoranur-->Kulappully-->Koonathara-->Vaniyamkulam-->Ottappalam		
+5		Palakkad		Thrissur		Palakkad-->Alathur-->Vadakkenchery-->Mannuthy-->Thrissur		
+6		Palakkad		Cherpulassery		Palakkad-->Mundur-->Kongad-->Kadambazhipuram-->Cherpulassery		
+7		Palakkad		Ottapalam		Palakkad-->Parli-->Mankara-->Pattirippala-->Ottapalam		
+8		Thrissur		Ottapalam		Thrissur-->Vadakkanchery-->Shoranur-->Vaniyankulam-->Ottapalam		
+9		Thrissur		Cherpulassery		Thrissur-->Vadakkanchery-->Shoranur-->Vaniyankulam-->Cherpulassery		
+10		Cherpulassery		Ottapalam		Cherpulassery-->Ananganadi-->Varode-->Kanniyampuram-->Ottapalam		
+15		Thrissur		Ottapalam		Thrissur-->Chelakkara-->Thiruvillamala-->Mayannur-->Ottapalam		
+----------------------------------------------------------------------------------------------------------------------------

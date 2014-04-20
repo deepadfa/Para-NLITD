@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------------------------------------------
+                                 Table distance                                                      
+------------------------------------------------------------------------------------------------------------
+did 		 source 		 destination 		 distance
+------------------------------------------------------------------------------------------------------------
+5		Palakkad		Thrissur		65		
+6		Palakkad		Cherpulassery		44		
+7		Palakkad		Ottapalam		35		
+8		Thrissur		Ottapalam		47		
+9		Thrissur		Cherpulassery		56		
+10		Cherpulassery		Ottapalam		18		
+1		Shoranur		Cherpulassery		25		
+2		Shoranur		Thrissur		33		
+3		Shoranur		Palakkad		51		
+4		Shoranur		Ottapalam		16		
+-----------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,13 @@
+The system includes only 5 places:-
+Shoranur
+Thrissur
+Cherpulassery
+Ottapalam
+Palakkad
+The following details of the above 5 places can be found using this system:-
+Bus details
+Train details
+Distance and
+Route
+Please enter the question in the from----to------ format in the entry box given at the bottom.
+The names of the places need not start in capital.

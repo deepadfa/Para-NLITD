@@ -1,0 +1,31 @@
+-----------------------------------------------------------------------------------------------------
+                                 Table buses                                                         
+-----------------------------------------------------------------------------------------------------
+busid 		 busname 
+-----------------------------------------------------------------------------------------------------
+1		Pavizham		
+2		Venattussery		
+3		Jeyar		
+4		Keyar		
+5		Parijatham		
+6		PA Travels		
+7		Jolly		
+8		Kannampilly		
+9		Kalyan		
+10		Vrindhavan		
+11		Jyothi		
+12		ST.George		
+13		Krishna		
+14		Jai Motors		
+15		Gayathri		
+16		Geethanjali		
+17		Govind		
+18		Sagar		
+19		Shivam		
+20		Pandavath Travels		
+21		Ramanz		
+22		Rahmath		
+23		Udaya		
+24		Ave Mariya		
+25		Skp Travels		
+-----------------------------------------------------------------------------------------------------

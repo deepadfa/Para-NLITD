@@ -1,0 +1,9 @@
+(S
+  How/WRB
+  to/TO
+  route/VB
+  from/IN
+  (NE Ottapalam/NNP)
+  to/TO
+  (NE Thrissur/NNP)
+  ?/.)
